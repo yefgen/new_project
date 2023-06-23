@@ -1,0 +1,41 @@
+header {
+	background-color: darkorange;
+	color: black;
+	}
+
+h1 {
+	text-align:center;
+	font-size:50px;
+   }
+
+.newh2 {
+	text-align:center;
+	font-size:40px;
+	}
+
+table {
+	border: 1px solid green;
+	border-collapse: collapse;
+	}
+
+tr {
+	border: 1px solid green;
+   }
+
+.green {
+	background-color: palegreen;
+	}
+
+footer {
+	background-color: darkorange;
+	color: black;
+	}
+
+.afoot {
+	color: black;
+	font-size: 20px;
+	}
+
+.pfoot {
+	font-size: 15px;
+	}
